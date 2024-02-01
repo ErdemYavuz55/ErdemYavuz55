@@ -1,4 +1,4 @@
-[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/130/2022/04/7-Essential-Data-Analyst-Skills-scaled.jpg)
+![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/130/2022/04/7-Essential-Data-Analyst-Skills-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Erdem Yavuz Hacisoftaoglu</h1>
 <h3 align="center">A passionate Computer Engineering Student from Turkey. Also interested at Data Analysis etc.</h3>
 

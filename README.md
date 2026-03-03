@@ -33,11 +33,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErdemYavuz55&show_icons=true&locale=en&layout=compact" alt="ErdemYavuz55" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErdemYavuz55&show_icons=true&locale=en" alt="ErdemYavuz55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErdemYavuz55&" alt="ErdemYavuz55" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemyavuz55&" alt="erdemyavuz55" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErdemYavuz55/ErdemYavuz55/output/github-contribution-grid-snake-dark.svg">

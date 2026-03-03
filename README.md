@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop)
+![MasterHead](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop)
 <h1 align="center">Hi 👋, I'm Erdem Yavuz Hacisoftaoglu</h1>
 <h3 align="center">A passionate Computer Engineer from Turkey 🇹🇷</h3>
 <h4 align="center">🎓 Recent Graduate | 🚀 Actively seeking full-time opportunities in Data Science & Machine Learning</h4>
